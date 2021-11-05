@@ -12,7 +12,7 @@
     * TN pin header on pcb
   * reset input
     * 2nd pin header on pcb
-<img align="right" src="doc/pcb.png" alt="pcb" width="100vh"/>
+<img align="right" src="doc/pcb.jpg" alt="pcb" width="100vh"/>
 <img align="right" src="doc/clockdiv.jpg" alt="panel" width="100vh"/>
 <img align="right" src="doc/pcb-layout.png" alt="pcb" width="100vh"/>
 
