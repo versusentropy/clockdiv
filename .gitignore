@@ -1,0 +1,29 @@
+# based on https://github.com/github/gitignore
+# For PCBs designed using KiCad: http://www.kicad-pcb.org/
+# Format documentation: http://kicad-pcb.org/help/file-formats/
+
+# Temporary files
+kicad/*.000
+kicad/*.bak
+kicad/*.bck
+kicad/*.kicad_pcb-bak
+kicad/*.kicad_sch-bak
+kicad/*.kicad_prl
+kicad/*.sch-bak
+kicad/*~
+kicad/_autosave-*
+kicad/*.tmp
+kicad/*-save.pro
+kicad/*-save.kicad_pcb
+kicad/fp-info-cache
+
+# Netlist files (exported from Eeschema)
+kicad/*.net
+
+# Autorouter files (exported from Pcbnew)
+kicad/*.dsn
+kicad/*.ses
+
+# Exported BOM files
+kicad/*.xml
+kicad/*.csv
