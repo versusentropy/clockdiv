@@ -6,7 +6,7 @@
   * +/-12V 20mA/-
   * 1 PCB 2 layer
     * 73 parts total
-    * 17 SMT, 4 THT
+    * 14 SMT, 4 THT
   * +5V gate outputs
   * clock input
     * TN pin header on pcb
