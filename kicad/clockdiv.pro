@@ -1,4 +1,4 @@
-update=05.11.2021 21:06:30
+update=26.11.2021 00:01:47
 version=1
 last_client=kicad
 [general]
@@ -34,7 +34,7 @@ LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=M:/__AUDIO/MOD/__GITHUB/clockdiv/doc
+PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
